@@ -51,5 +51,3 @@ The image random1.jpg exists in the correct folder
 
 The path to the image is correct in demo.py
 
-
-Feel free to fork this project and build something cool!
